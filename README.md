@@ -3,6 +3,7 @@
 
 ===   
 스나이퍼팩토리 & 정동훈
+멘토 - 박지수
 ***
 (강의 자료는 슬랙 채팅방에 있습니다.)
 채팅방: [Slack URL](https://join.slack.com/t/kitrix/shared_invite/zt-1ujwdwpu8-CWbtAvLowOpPD6FhXwk~5A) 
